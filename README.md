@@ -1,6 +1,6 @@
-# sqlmap ![](https://i.imgur.com/fe85aVR.png)
+# Teste de penetração ![](https://i.imgur.com/fe85aVR.png)
 
-[![.github/workflows/tests.yml](https://github.com/sqlmapproject/sqlmap/actions/workflows/tests.yml/badge.svg)](https://github.com/sqlmapproject/sqlmap /actions/workflows/tests.yml) [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)]( https://www.python.org/) [![Licença](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/sqlmapproject /sqlmap/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-@sqlmap-blue.svg)](https://twitter.com/sqlmap)
+
 
 sqlmap é uma ferramenta de teste de penetração de código aberto que automatiza o processo de detecção e exploração de falhas de injeção de SQL e controle de servidores de banco de dados. Ele vem com um poderoso mecanismo de detecção, muitos recursos de nicho para o melhor testador de penetração e uma ampla variedade de switches, incluindo impressão digital de banco de dados, busca de dados do banco de dados, acesso ao sistema de arquivos subjacente e execução de comandos no sistema operacional via out- conexões de banda.
 
